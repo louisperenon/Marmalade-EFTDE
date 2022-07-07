@@ -13,4 +13,4 @@ The implementation effective field theory of dark energy models follows the form
 
 ## License
 
-This package is licensed under the MIT License. See the [LICENSE file](https://github.com/louisperenon/Marmalade_EFTDE/blob/main/LICENSE) for more details.
+This package is licensed under the MIT License. See the [LICENSE file](https://github.com/louisperenon/Marmalade_EFTDE/blob/master/LICENSE) for more details.
