@@ -1,0 +1,2 @@
+# z fsig8 fsig8(1sigma) arXiv:1706.05130 https://arxiv.org/abs/1706.05130
+0.001 0.505 0.085 

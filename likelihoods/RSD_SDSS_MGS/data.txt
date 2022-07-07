@@ -1,0 +1,2 @@
+# z fsig8 fsig8(1sigma) arXiv:1409.3238 https://arxiv.org/abs/1409.3238
+0.15 0.490 0.145

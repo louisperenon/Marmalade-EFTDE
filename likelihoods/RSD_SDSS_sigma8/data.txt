@@ -1,0 +1,2 @@
+# z sig8 sig8(1sigma) arXiv:1712.04163 https://arxiv.org/abs/1712.04163
+0.10 0.769 0.105
